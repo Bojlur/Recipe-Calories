@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Grilled Chicken with Basil",
+      "description": "A simple and delicious grilled chicken recipe with fresh basil leaves.",
+      "recipe_img": "https://i.ibb.co.com/BZcg5Bx/images-2.jpg",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": "30 minutes",
+      "calories": "450 kcal"
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta with bacon, eggs, and Parmesan cheese.",
+      "recipe_img": "https://i.ibb.co.com/T0ZF6j4/images-1.jpg",
+      "ingredients": ["400 g spaghetti", "150 g bacon", "4 eggs", "100 g Parmesan cheese", "200 ml cream"],
+      "preparing_time": "25 minutes",
+      "calories": "600 kcal"
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Vegetable Stir-fry",
+      "description": "A healthy and colorful vegetable stir-fry with a light soy sauce.",
+      "recipe_img": "https://i.ibb.co.com/VJQ2GBY/images.jpg",
+      "ingredients": ["200 g broccoli", "150 g carrot", "100 g bell pepper", "50 g onion", "30 ml soy sauce"],
+      "preparing_time": "20 minutes",
+      "calories": "200 kcal"
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Beef Tacos",
+      "description": "Flavorful beef tacos with fresh toppings and homemade taco seasoning.",
+      "recipe_img": "https://i.ibb.co.com/BZcg5Bx/images-2.jpg",
+      "ingredients": ["500 g ground beef", "8 taco shells", "100 g lettuce", "100 g cheese", "50 ml salsa"],
+      "preparing_time": "35 minutes",
+      "calories": "500 kcal"
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "Salmon Teriyaki",
+      "description": "A savory grilled salmon glazed with homemade teriyaki sauce.",
+      "recipe_img": "https://i.ibb.co.com/T0ZF6j4/images-1.jpg",
+      "ingredients": ["400 g salmon fillet", "50 ml teriyaki sauce", "200 g rice", "100 g green beans", "1 lemon"],
+      "preparing_time": "25 minutes",
+      "calories": "450 kcal"
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Mushroom Risotto",
+      "description": "Creamy risotto made with arborio rice and fresh mushrooms.",
+      "recipe_img": "https://i.ibb.co.com/VJQ2GBY/images.jpg",
+      "ingredients": ["300 g arborio rice", "200 g mushroom", "100 ml white wine", "50 g Parmesan", "500 ml chicken broth"],
+      "preparing_time": "40 minutes",
+      "calories": "550 kcal"
+    }
+  ]
+  
